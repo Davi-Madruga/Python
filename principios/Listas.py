@@ -1,4 +1,4 @@
-
+#listas
 lista_instrutores = ["Augusto","Kaio","Uira"]
 lista_instrutores.clear()
 lista_instrutores.append("Rafael")
